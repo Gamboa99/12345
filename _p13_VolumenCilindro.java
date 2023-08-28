@@ -1,6 +1,7 @@
 // Se desea calcular el volumen de un cilindro dado su radio y altura
 
 //- volumen = PI*(radio *radio)* altura
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class _p13_VolumenCilindro {
@@ -19,5 +20,9 @@ public class _p13_VolumenCilindro {
 
 
     }
+=======
+
+public class _p13_VolumenCilindro {
+>>>>>>> b38242aebcbe2f154d81569cc61820d9e0fb78f7
     
 }

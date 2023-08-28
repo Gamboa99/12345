@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class _p10_HipotenusaTriangulo{
     public static void main(String[] args) {
+<<<<<<< HEAD
         double lado1, lado2, hipotenusa;
         Scanner hip = new Scanner(System.in);
 
@@ -16,6 +17,8 @@ public class _p10_HipotenusaTriangulo{
 
         hipotenusa = Math.sqrt((lado1*lado1)+(lado2*lado2));
         System.out.println("La hipotenusa es "+ hipotenusa);
+=======
+>>>>>>> b38242aebcbe2f154d81569cc61820d9e0fb78f7
         
     }
 }

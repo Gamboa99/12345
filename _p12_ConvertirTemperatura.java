@@ -1,6 +1,7 @@
 // Se desea convertir una temperatura de grados faherenheit a grados celsius
 
 //- celsius=(fahrenheit-32)*(5/9)
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class _p12_ConvertirTemperatura {
@@ -22,5 +23,8 @@ public class _p12_ConvertirTemperatura {
 
 
 
+=======
+public class _p12_ConvertirTemperatura {
+>>>>>>> b38242aebcbe2f154d81569cc61820d9e0fb78f7
     
 }
