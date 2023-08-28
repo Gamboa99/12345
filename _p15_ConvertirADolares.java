@@ -1,5 +1,5 @@
 //Dada una cantidad en pesos y la cotizacion del dolar, se desea obtener el equivalente en dolares 
-<<<<<<< HEAD
+
 import java.util.Scanner;
 
 public class _p15_ConvertirADolares {
@@ -18,8 +18,6 @@ public class _p15_ConvertirADolares {
         System.out.println("El equivalente en dolares es "+ dolares);
 
     }
-=======
-public class _p15_ConvertirADolares {
->>>>>>> b38242aebcbe2f154d81569cc61820d9e0fb78f7
+
     
 }

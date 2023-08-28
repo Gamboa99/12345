@@ -1,6 +1,6 @@
 // Se desea calcular el 3er angulo de un triangulo dados los dos primeros angulos del mismo
 
-<<<<<<< HEAD
+
 //  angulo3 = 180-(angulo1 + angulo2)
 import java.util.Scanner;
 
@@ -18,11 +18,7 @@ public class _p11_CalcularAngulo {
         System.out.println("El tercer angulo es "+ angulo3);
 
 
-=======
-// - angulo3 = 180-(angulo1 + angulo2)
-public class _p11_CalcularAngulo {
-    public static void main(String[] args) {
->>>>>>> b38242aebcbe2f154d81569cc61820d9e0fb78f7
+ 
         
     }
     
