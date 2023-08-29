@@ -29,3 +29,4 @@
 - _p17_TrabajandoFlotantes 
 - _p18_TrabajandoConstantes
 - _p19_TrabajandoCaracteres
+- _ p20_ConversionTipos
