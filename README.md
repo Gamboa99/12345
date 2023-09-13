@@ -81,3 +81,9 @@
 - _p53_NumerosNa1
 - _p54_ArribaAbajo
 - _p56_SumaPromedio
+
+## Actividad10
+- _p57_TablasMultiplicar
+- -p58_Piramide
+- _p59_FactorialNumeros 
+- _p60_SumaTerminos
