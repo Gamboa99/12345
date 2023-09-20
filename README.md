@@ -76,14 +76,20 @@
 - _p50_ConversionTemperaturas
 - _p51_SerieFibonaci
 
-## Actividad9
+## Actividad 9
 - _p52_Numeros1aN
 - _p53_NumerosNa1
 - _p54_ArribaAbajo
 - _p56_SumaPromedio
 
-## Actividad10
+## Actividad 10
 - _p57_TablasMultiplicar
 - -p58_Piramide
 - _p59_FactorialNumeros 
 - _p60_SumaTerminos
+
+## Practica 4
+- _p61_SecuenciaNumeros1 
+- _p62_SecuenciaNumeros2
+- _p63_SumaTerminos1
+- _p64_SumaTerminon2
