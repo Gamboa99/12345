@@ -100,3 +100,10 @@
 - _p67_SumaRango
 - _68_TablaMultiplicar
 - _69_CalificacionLetra
+
+## Actividad 12
+- _p70_MayorTresNumeros
+- _p71_SumaDigitos
+- _p72_SumaparesImpares
+- _p73_Factorial
+- _p74_CuadroCaracter
