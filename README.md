@@ -121,3 +121,9 @@
 - _p83_InicializaNombresEdades
 - _p84_LeerArregloCalificaciones
 - _p85_NombresEdades
+
+## Actividad 14
+- _p86_ArregloMostrar
+- _p87_ArregloTEmperaturas
+- _p88_Aleateorios
+- _p89_ArregloAleatorios
