@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) {
         Empleado empleado = new Empleado();
 
-        empleado.Nombre = "Juan Perez";
+        empleado.Nombre = "Juan P";
         empleado.Edad = 35;
 
         Empleado empleado2;
