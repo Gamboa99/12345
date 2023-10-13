@@ -4,7 +4,7 @@ public class Empleado {
     private String Nombre;
     private int Edad;
 
-    public int getEdad();{
+    public int getEdad(){
         return Edad;
     }
     public void setEdad(int edad){
