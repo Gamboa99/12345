@@ -141,4 +141,11 @@
 - _p97_Empleado04
 
 ## Practica 7
-- _
+- _p98_Circulo
+- _p99_Rectangulo
+- _100_Articulo
+
+## Actividad 16
+- _p101_TrabajoPersona
+- _p102_AutorLibro
+- _p103_ClienteFactura
