@@ -157,3 +157,10 @@
 ## Actividad 17
 - _p106_Persona
 - _p107_Froma
+
+## Practica 9
+- _108_Vehiculo
+- _109_FormaV2
+
+## Actividad 18
+- _p110_CuentaBancariav1
