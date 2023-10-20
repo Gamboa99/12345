@@ -5,7 +5,7 @@ public class Apoyo extends Persona{
     private double Paga;
     public Apoyo(){
     }
-    public Apoyo(String nombre, String direccion, String escolaridad, doble paga) {
+    public Apoyo(String nombre, String direccion, String escolaridad, double paga) {
         super(nombre, direccion);
         Escolaridad = escolaridad;
         Paga = paga;
