@@ -167,3 +167,6 @@
 
 ## Actividad 19
 - _111_CuentaBancariav2
+
+## Practica 10
+- _112_ControlVentas
