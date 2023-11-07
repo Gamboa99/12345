@@ -1,6 +1,6 @@
 # Programacion Orientada a Objetos y Laboratorio
 
-- Nombre :Matria Paula Carrillo Gamboa
+- Nombre :Maria Paula Carrillo Gamboa
 - Correo: paulgamboa99@gmail.com
 
 ## Actividad 1
@@ -192,3 +192,21 @@
 - _p125_Excepcion5
 - _p126_Excepcion6
 - _p127_MiExcepcion
+
+## Practica 12
+- _p128_ExcepcionRaiz
+- _p129_ExcepcionDulces
+- _p130_ExcepcionEddes
+- _p131_ExcepcionTemperatura
+
+## Actividad 23
+- _132_Archivos1
+- _132_Archivos2
+- _133_Archivos3
+- _134_Archivos4
+- _135_Archivos5
+
+## Practica 13
+- _p137_ArchivoMunicipios
+- _p138_ArchivoMaterias
+- _p139_ArchivoEstudiante
