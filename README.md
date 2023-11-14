@@ -214,4 +214,6 @@
 ## Actividad 24
 - _p140_HolaMundoGUI
 - _p141_AreaTriamguloGUI
-- _p142_LeyDeNewtonGUI 
+- _p142_LeyDeNewtonGUI
+
+
