@@ -211,4 +211,7 @@
 - _p138_ArchivoMaterias
 - _p139_ArchivoEstudiante
 
-##
+## Actividad 24
+- _p140_HolaMundoGUI
+- _p141_AreaTriamguloGUI
+- _p142_LeyDeNewtonGUI 
