@@ -216,4 +216,7 @@
 - _p141_AreaTriamguloGUI
 - _p142_LeyDeNewtonGUI
 
+## Practica 14
 
+## Actividad 25
+- _p145_EstudianteGUI_v1
