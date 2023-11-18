@@ -217,6 +217,11 @@
 - _p142_LeyDeNewtonGUI
 
 ## Practica 14
+- _p143_PagaTrabajador
+- _p144_Temperaturas
 
 ## Actividad 25
 - _p145_EstudianteGUI_v1
+
+## Actividad 26
+- _p146_HolaMundoGUI_V2
